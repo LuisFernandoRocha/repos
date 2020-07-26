@@ -1,0 +1,13 @@
+C:\Users\Fernando\source\repos\ExercicioFile\ExercicioFile\bin\Debug\netcoreapp3.1\ExercicioFile.exe
+C:\Users\Fernando\source\repos\ExercicioFile\ExercicioFile\bin\Debug\netcoreapp3.1\ExercicioFile.deps.json
+C:\Users\Fernando\source\repos\ExercicioFile\ExercicioFile\bin\Debug\netcoreapp3.1\ExercicioFile.runtimeconfig.json
+C:\Users\Fernando\source\repos\ExercicioFile\ExercicioFile\bin\Debug\netcoreapp3.1\ExercicioFile.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\ExercicioFile\ExercicioFile\bin\Debug\netcoreapp3.1\ExercicioFile.dll
+C:\Users\Fernando\source\repos\ExercicioFile\ExercicioFile\bin\Debug\netcoreapp3.1\ExercicioFile.pdb
+C:\Users\Fernando\source\repos\ExercicioFile\ExercicioFile\obj\Debug\netcoreapp3.1\ExercicioFile.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\ExercicioFile\ExercicioFile\obj\Debug\netcoreapp3.1\ExercicioFile.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\ExercicioFile\ExercicioFile\obj\Debug\netcoreapp3.1\ExercicioFile.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\ExercicioFile\ExercicioFile\obj\Debug\netcoreapp3.1\ExercicioFile.dll
+C:\Users\Fernando\source\repos\ExercicioFile\ExercicioFile\obj\Debug\netcoreapp3.1\ExercicioFile.pdb
+C:\Users\Fernando\source\repos\ExercicioFile\ExercicioFile\obj\Debug\netcoreapp3.1\ExercicioFile.genruntimeconfig.cache
+C:\Users\Fernando\source\repos\ExercicioFile\ExercicioFile\obj\Debug\netcoreapp3.1\ExercicioFile.csprojAssemblyReference.cache

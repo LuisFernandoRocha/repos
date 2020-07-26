@@ -1,0 +1,13 @@
+C:\Users\Fernando\source\repos\File4\File4\bin\Debug\netcoreapp3.1\File4.exe
+C:\Users\Fernando\source\repos\File4\File4\bin\Debug\netcoreapp3.1\File4.deps.json
+C:\Users\Fernando\source\repos\File4\File4\bin\Debug\netcoreapp3.1\File4.runtimeconfig.json
+C:\Users\Fernando\source\repos\File4\File4\bin\Debug\netcoreapp3.1\File4.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\File4\File4\bin\Debug\netcoreapp3.1\File4.dll
+C:\Users\Fernando\source\repos\File4\File4\bin\Debug\netcoreapp3.1\File4.pdb
+C:\Users\Fernando\source\repos\File4\File4\obj\Debug\netcoreapp3.1\File4.csprojAssemblyReference.cache
+C:\Users\Fernando\source\repos\File4\File4\obj\Debug\netcoreapp3.1\File4.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\File4\File4\obj\Debug\netcoreapp3.1\File4.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\File4\File4\obj\Debug\netcoreapp3.1\File4.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\File4\File4\obj\Debug\netcoreapp3.1\File4.dll
+C:\Users\Fernando\source\repos\File4\File4\obj\Debug\netcoreapp3.1\File4.pdb
+C:\Users\Fernando\source\repos\File4\File4\obj\Debug\netcoreapp3.1\File4.genruntimeconfig.cache

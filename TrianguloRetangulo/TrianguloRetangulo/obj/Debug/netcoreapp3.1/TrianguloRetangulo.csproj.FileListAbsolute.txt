@@ -1,0 +1,13 @@
+C:\Users\Fernando\source\repos\TrianguloRetangulo\TrianguloRetangulo\bin\Debug\netcoreapp3.1\TrianguloRetangulo.exe
+C:\Users\Fernando\source\repos\TrianguloRetangulo\TrianguloRetangulo\bin\Debug\netcoreapp3.1\TrianguloRetangulo.deps.json
+C:\Users\Fernando\source\repos\TrianguloRetangulo\TrianguloRetangulo\bin\Debug\netcoreapp3.1\TrianguloRetangulo.runtimeconfig.json
+C:\Users\Fernando\source\repos\TrianguloRetangulo\TrianguloRetangulo\bin\Debug\netcoreapp3.1\TrianguloRetangulo.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\TrianguloRetangulo\TrianguloRetangulo\bin\Debug\netcoreapp3.1\TrianguloRetangulo.dll
+C:\Users\Fernando\source\repos\TrianguloRetangulo\TrianguloRetangulo\bin\Debug\netcoreapp3.1\TrianguloRetangulo.pdb
+C:\Users\Fernando\source\repos\TrianguloRetangulo\TrianguloRetangulo\obj\Debug\netcoreapp3.1\TrianguloRetangulo.csprojAssemblyReference.cache
+C:\Users\Fernando\source\repos\TrianguloRetangulo\TrianguloRetangulo\obj\Debug\netcoreapp3.1\TrianguloRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\TrianguloRetangulo\TrianguloRetangulo\obj\Debug\netcoreapp3.1\TrianguloRetangulo.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\TrianguloRetangulo\TrianguloRetangulo\obj\Debug\netcoreapp3.1\TrianguloRetangulo.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\TrianguloRetangulo\TrianguloRetangulo\obj\Debug\netcoreapp3.1\TrianguloRetangulo.dll
+C:\Users\Fernando\source\repos\TrianguloRetangulo\TrianguloRetangulo\obj\Debug\netcoreapp3.1\TrianguloRetangulo.pdb
+C:\Users\Fernando\source\repos\TrianguloRetangulo\TrianguloRetangulo\obj\Debug\netcoreapp3.1\TrianguloRetangulo.genruntimeconfig.cache

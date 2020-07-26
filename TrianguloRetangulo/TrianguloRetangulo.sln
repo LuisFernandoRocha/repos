@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianguloRetangulo", "TrianguloRetangulo\TrianguloRetangulo.csproj", "{CFB92649-3CDB-472E-8284-6322E0C9429B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB92649-3CDB-472E-8284-6322E0C9429B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB92649-3CDB-472E-8284-6322E0C9429B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB92649-3CDB-472E-8284-6322E0C9429B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB92649-3CDB-472E-8284-6322E0C9429B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F4F6318-254C-4EB1-B0B9-E6A9A90A1FDA}
+	EndGlobalSection
+EndGlobal

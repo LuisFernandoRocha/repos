@@ -1,0 +1,13 @@
+C:\Users\Fernando\source\repos\ContaBancariaAbstrata\ContaBancariaAbstrata\bin\Debug\netcoreapp3.1\ContaBancariaAbstrata.exe
+C:\Users\Fernando\source\repos\ContaBancariaAbstrata\ContaBancariaAbstrata\bin\Debug\netcoreapp3.1\ContaBancariaAbstrata.deps.json
+C:\Users\Fernando\source\repos\ContaBancariaAbstrata\ContaBancariaAbstrata\bin\Debug\netcoreapp3.1\ContaBancariaAbstrata.runtimeconfig.json
+C:\Users\Fernando\source\repos\ContaBancariaAbstrata\ContaBancariaAbstrata\bin\Debug\netcoreapp3.1\ContaBancariaAbstrata.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\ContaBancariaAbstrata\ContaBancariaAbstrata\bin\Debug\netcoreapp3.1\ContaBancariaAbstrata.dll
+C:\Users\Fernando\source\repos\ContaBancariaAbstrata\ContaBancariaAbstrata\bin\Debug\netcoreapp3.1\ContaBancariaAbstrata.pdb
+C:\Users\Fernando\source\repos\ContaBancariaAbstrata\ContaBancariaAbstrata\obj\Debug\netcoreapp3.1\ContaBancariaAbstrata.csprojAssemblyReference.cache
+C:\Users\Fernando\source\repos\ContaBancariaAbstrata\ContaBancariaAbstrata\obj\Debug\netcoreapp3.1\ContaBancariaAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\ContaBancariaAbstrata\ContaBancariaAbstrata\obj\Debug\netcoreapp3.1\ContaBancariaAbstrata.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\ContaBancariaAbstrata\ContaBancariaAbstrata\obj\Debug\netcoreapp3.1\ContaBancariaAbstrata.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\ContaBancariaAbstrata\ContaBancariaAbstrata\obj\Debug\netcoreapp3.1\ContaBancariaAbstrata.dll
+C:\Users\Fernando\source\repos\ContaBancariaAbstrata\ContaBancariaAbstrata\obj\Debug\netcoreapp3.1\ContaBancariaAbstrata.pdb
+C:\Users\Fernando\source\repos\ContaBancariaAbstrata\ContaBancariaAbstrata\obj\Debug\netcoreapp3.1\ContaBancariaAbstrata.genruntimeconfig.cache

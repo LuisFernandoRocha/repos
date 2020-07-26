@@ -1,0 +1,13 @@
+C:\Users\Fernando\source\repos\ExercicoContrato\ExercicoContrato\bin\Debug\netcoreapp3.1\ExercicoContrato.exe
+C:\Users\Fernando\source\repos\ExercicoContrato\ExercicoContrato\bin\Debug\netcoreapp3.1\ExercicoContrato.deps.json
+C:\Users\Fernando\source\repos\ExercicoContrato\ExercicoContrato\bin\Debug\netcoreapp3.1\ExercicoContrato.runtimeconfig.json
+C:\Users\Fernando\source\repos\ExercicoContrato\ExercicoContrato\bin\Debug\netcoreapp3.1\ExercicoContrato.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\ExercicoContrato\ExercicoContrato\bin\Debug\netcoreapp3.1\ExercicoContrato.dll
+C:\Users\Fernando\source\repos\ExercicoContrato\ExercicoContrato\bin\Debug\netcoreapp3.1\ExercicoContrato.pdb
+C:\Users\Fernando\source\repos\ExercicoContrato\ExercicoContrato\obj\Debug\netcoreapp3.1\ExercicoContrato.csprojAssemblyReference.cache
+C:\Users\Fernando\source\repos\ExercicoContrato\ExercicoContrato\obj\Debug\netcoreapp3.1\ExercicoContrato.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\ExercicoContrato\ExercicoContrato\obj\Debug\netcoreapp3.1\ExercicoContrato.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\ExercicoContrato\ExercicoContrato\obj\Debug\netcoreapp3.1\ExercicoContrato.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\ExercicoContrato\ExercicoContrato\obj\Debug\netcoreapp3.1\ExercicoContrato.dll
+C:\Users\Fernando\source\repos\ExercicoContrato\ExercicoContrato\obj\Debug\netcoreapp3.1\ExercicoContrato.pdb
+C:\Users\Fernando\source\repos\ExercicoContrato\ExercicoContrato\obj\Debug\netcoreapp3.1\ExercicoContrato.genruntimeconfig.cache

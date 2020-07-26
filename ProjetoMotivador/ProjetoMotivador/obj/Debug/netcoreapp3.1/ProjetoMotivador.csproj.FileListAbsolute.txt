@@ -1,0 +1,13 @@
+C:\Users\Fernando\source\repos\ProjetoMotivador\ProjetoMotivador\bin\Debug\netcoreapp3.1\ProjetoMotivador.exe
+C:\Users\Fernando\source\repos\ProjetoMotivador\ProjetoMotivador\bin\Debug\netcoreapp3.1\ProjetoMotivador.deps.json
+C:\Users\Fernando\source\repos\ProjetoMotivador\ProjetoMotivador\bin\Debug\netcoreapp3.1\ProjetoMotivador.runtimeconfig.json
+C:\Users\Fernando\source\repos\ProjetoMotivador\ProjetoMotivador\bin\Debug\netcoreapp3.1\ProjetoMotivador.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\ProjetoMotivador\ProjetoMotivador\bin\Debug\netcoreapp3.1\ProjetoMotivador.dll
+C:\Users\Fernando\source\repos\ProjetoMotivador\ProjetoMotivador\bin\Debug\netcoreapp3.1\ProjetoMotivador.pdb
+C:\Users\Fernando\source\repos\ProjetoMotivador\ProjetoMotivador\obj\Debug\netcoreapp3.1\ProjetoMotivador.csprojAssemblyReference.cache
+C:\Users\Fernando\source\repos\ProjetoMotivador\ProjetoMotivador\obj\Debug\netcoreapp3.1\ProjetoMotivador.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\ProjetoMotivador\ProjetoMotivador\obj\Debug\netcoreapp3.1\ProjetoMotivador.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\ProjetoMotivador\ProjetoMotivador\obj\Debug\netcoreapp3.1\ProjetoMotivador.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\ProjetoMotivador\ProjetoMotivador\obj\Debug\netcoreapp3.1\ProjetoMotivador.dll
+C:\Users\Fernando\source\repos\ProjetoMotivador\ProjetoMotivador\obj\Debug\netcoreapp3.1\ProjetoMotivador.pdb
+C:\Users\Fernando\source\repos\ProjetoMotivador\ProjetoMotivador\obj\Debug\netcoreapp3.1\ProjetoMotivador.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Fernando\source\repos\ExercicioLambdaProdutos\ExercicioLambdaProdutos\bin\Debug\netcoreapp3.1\ExercicioLambdaProdutos.exe
+C:\Users\Fernando\source\repos\ExercicioLambdaProdutos\ExercicioLambdaProdutos\bin\Debug\netcoreapp3.1\ExercicioLambdaProdutos.deps.json
+C:\Users\Fernando\source\repos\ExercicioLambdaProdutos\ExercicioLambdaProdutos\bin\Debug\netcoreapp3.1\ExercicioLambdaProdutos.runtimeconfig.json
+C:\Users\Fernando\source\repos\ExercicioLambdaProdutos\ExercicioLambdaProdutos\bin\Debug\netcoreapp3.1\ExercicioLambdaProdutos.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\ExercicioLambdaProdutos\ExercicioLambdaProdutos\bin\Debug\netcoreapp3.1\ExercicioLambdaProdutos.dll
+C:\Users\Fernando\source\repos\ExercicioLambdaProdutos\ExercicioLambdaProdutos\bin\Debug\netcoreapp3.1\ExercicioLambdaProdutos.pdb
+C:\Users\Fernando\source\repos\ExercicioLambdaProdutos\ExercicioLambdaProdutos\obj\Debug\netcoreapp3.1\ExercicioLambdaProdutos.csprojAssemblyReference.cache
+C:\Users\Fernando\source\repos\ExercicioLambdaProdutos\ExercicioLambdaProdutos\obj\Debug\netcoreapp3.1\ExercicioLambdaProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\ExercicioLambdaProdutos\ExercicioLambdaProdutos\obj\Debug\netcoreapp3.1\ExercicioLambdaProdutos.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\ExercicioLambdaProdutos\ExercicioLambdaProdutos\obj\Debug\netcoreapp3.1\ExercicioLambdaProdutos.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\ExercicioLambdaProdutos\ExercicioLambdaProdutos\obj\Debug\netcoreapp3.1\ExercicioLambdaProdutos.dll
+C:\Users\Fernando\source\repos\ExercicioLambdaProdutos\ExercicioLambdaProdutos\obj\Debug\netcoreapp3.1\ExercicioLambdaProdutos.pdb
+C:\Users\Fernando\source\repos\ExercicioLambdaProdutos\ExercicioLambdaProdutos\obj\Debug\netcoreapp3.1\ExercicioLambdaProdutos.genruntimeconfig.cache

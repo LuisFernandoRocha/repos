@@ -1,0 +1,13 @@
+C:\Users\Fernando\source\repos\CompareTO\CompareTO\bin\Debug\netcoreapp3.1\CompareTO.exe
+C:\Users\Fernando\source\repos\CompareTO\CompareTO\bin\Debug\netcoreapp3.1\CompareTO.deps.json
+C:\Users\Fernando\source\repos\CompareTO\CompareTO\bin\Debug\netcoreapp3.1\CompareTO.runtimeconfig.json
+C:\Users\Fernando\source\repos\CompareTO\CompareTO\bin\Debug\netcoreapp3.1\CompareTO.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\CompareTO\CompareTO\bin\Debug\netcoreapp3.1\CompareTO.dll
+C:\Users\Fernando\source\repos\CompareTO\CompareTO\bin\Debug\netcoreapp3.1\CompareTO.pdb
+C:\Users\Fernando\source\repos\CompareTO\CompareTO\obj\Debug\netcoreapp3.1\CompareTO.csprojAssemblyReference.cache
+C:\Users\Fernando\source\repos\CompareTO\CompareTO\obj\Debug\netcoreapp3.1\CompareTO.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\CompareTO\CompareTO\obj\Debug\netcoreapp3.1\CompareTO.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\CompareTO\CompareTO\obj\Debug\netcoreapp3.1\CompareTO.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\CompareTO\CompareTO\obj\Debug\netcoreapp3.1\CompareTO.dll
+C:\Users\Fernando\source\repos\CompareTO\CompareTO\obj\Debug\netcoreapp3.1\CompareTO.pdb
+C:\Users\Fernando\source\repos\CompareTO\CompareTO\obj\Debug\netcoreapp3.1\CompareTO.genruntimeconfig.cache
